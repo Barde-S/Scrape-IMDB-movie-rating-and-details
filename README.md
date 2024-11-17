@@ -87,5 +87,3 @@ The first few rows of the DataFrame will look like this:
 
 ---
 
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
